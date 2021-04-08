@@ -1,6 +1,6 @@
 # rainbow_app
 
-A new Flutter application.
+![](images/app.png)
 
 ## Getting Started
 
